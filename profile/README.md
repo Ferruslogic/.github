@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37944516/150434473-1ef7d27d-c8ec-49b4-b393-4f5330a2c354.jpg" alt="FerrusLogic logo" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/37944516/150434839-e88fa2f7-9c1d-48bd-8647-b04b505604b9.jpg" alt="FerrusLogic logo" style="max-width: 100%;">
 </p>
 
 ## Hi there 👋
