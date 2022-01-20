@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img width="500" src="logo-Ferrus-Logic.png" alt="FerrusLogic logo">
+</p>
 
 <!--
 
