@@ -1,5 +1,5 @@
 <p align="center">
-   <kbd><img width="500" src="logo-Ferrus-Logic.jpg" alt="FerrusLogic logo"></kbd>
+   <kbd><img width="500" src="https://user-images.githubusercontent.com/37944516/150430641-585f1707-82f6-4e68-92bd-a0aa87d9a965.jpg" alt="FerrusLogic logo"></kbd>
 </p>
 
 ## Hi there 👋
