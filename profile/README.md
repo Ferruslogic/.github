@@ -1,7 +1,12 @@
-## Hi there 👋
 <p align="center">
-  <img width="500" src="logo-Ferrus-Logic.png" alt="FerrusLogic logo">
+   <kbd><img width="500" src="logo-Ferrus-Logic.jpg" alt="FerrusLogic logo"></kbd>
 </p>
+
+## Hi there 👋
+
+### We are a very small team, of great friends
+
+We have been together for a long time, enough to feel and treat each other as a family of different blood. With many differences and many points in common. Some of those commonalities are an interest in teaching, software development, and a good cup of hot coffee.
 
 <!--
 
