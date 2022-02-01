@@ -8,4 +8,4 @@
 
 🙋‍♀️ We have been studying  and working together for a long time, enough to feel and treat each other as a family of different blood. With many differences and many points in common. Some of those commonalities are an interest in teaching, software development, and a good cup of hot coffee.
 
-👩‍💻 Our specialty is the development of modern and cross-platform applications. We preferably develop in ![LiveCode](https://livecode.com), this is not our only tool. But if the one we use the most.
+👩‍💻 Our specialty is the development of modern and cross-platform applications. We preferably develop in ![LiveCode](https://livecode.com/), this is not our only tool. But if the one we use the most.
